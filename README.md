@@ -68,7 +68,6 @@ Transcription assignments | 15%
 Midterm exam | 20%
 Final exam | 20%
 Semester Project | 30%
-------|-------------------
 
 ## Homework Information
 
