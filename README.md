@@ -1,8 +1,8 @@
 
-Phonetics (Lin 500.001)
-=======================
+#Phonetics (Lin 500.001)
 
-Linguistics 500 (Lin 500.001) Fall 2015 *Phonetics* MWF 9:00-9:50 in LCLI 312
+Linguistics 500 | Fall 2015 | MWF 9:00-9:50 in LCLI 312
+-------------------------------------------------------
 
 https://uk.instructure.com/courses/1606720
 
