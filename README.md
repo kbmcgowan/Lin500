@@ -22,7 +22,7 @@ We humans have the uncanny ability to convert thoughts into vibrating air molecu
 
 - To understand fundamental principles of phonetic theory and phonetic representation. We will study current theories of the complex tasks accomplished by speakers and listeners and will arrive at a representation of speech sounds in terms of their articulatory (speaker-based), acoustic, and perceptual (listener-based) characteristics.
 - To introduce students to phonetic experimentation and analysis.  Small-scale experiments will provide training in physiologic measurement, acoustic analysis and perceptual testing.  We will reinforce theoretical principles by performing empirical tests of claims.
-- To consider articulatory, acoustic and perceptual properties as imposing a set of simultaneous constraints on the notion of ``possible speech sound'' and as contributing to the definition of ``possible speech sound system'' for human languages.  This consideration serves as a bridge from phonetics to phonology.
+- To consider articulatory, acoustic and perceptual properties as imposing a set of simultaneous constraints on the notion of possible speech sound and as contributing to the definition of possible speech sound _system_ for human languages.  This consideration serves as a bridge from phonetics to phonology.
 - To provide practical experience in producing and transcribing sounds of the world's languages.
 
 ## Learning Outcomes
@@ -37,9 +37,10 @@ After diligent participation in this class, students will:
 
 ## Required Textbooks
 
-_Acoustic and Auditory Phonetics_ (3rd edition) by Keith Johnson ISBN: 1-4051-9466-9
-_A Course in Phonetics_ (6th edition) by Peter Ladefoged \& Keith Johnson ISBN: 1-4282-3126-9
-(or _A Course in Phonetics_ (5th edition) by Peter Ladefoged ISBN: 1-4130-0688-4)
+1.  _Acoustic and Auditory Phonetics_ (3rd edition) by Keith Johnson ISBN: 1-4051-9466-9
+2. - _A Course in Phonetics_ (6th edition) by Peter Ladefoged \& Keith Johnson ISBN: 1-4282-3126-9
+- (or _A Course in Phonetics_ (5th edition) by Peter Ladefoged ISBN: 1-4130-0688-4)
+
 Additional required readings will be on [our canvas site](https://uk.instructure.com/courses/1606720).
 
 Discussions will parallel the readings but will not always cover the same material. *You are responsible for all material covered in readings and in class.*  Regular class attendance and active participation are essential for mastery of the material and will be reflected by your overall course grade.  Slides, when used, will be made available online, but serve only to support the discussion we'll have together in class. Our discussions, in a very real sense, _are_ the course and the more you participate the richer our course will be.
