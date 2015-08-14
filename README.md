@@ -14,68 +14,55 @@ https://uk.instructure.com/courses/1606720
 - Office Hours:  Monday & Tuesday  1:00 - 2:30
   or [make an appointment](https://kbmcgowan.youcanbook.me/)
 
-{\bf Course Description}\\
+## Course Description
 
 We humans have the uncanny ability to convert thoughts into vibrating air molecules, perceive minute patterns of vibration happening around their heads, and translate those vibrations back into thoughts!  Nothing any science fiction author could ever write about mind reading could be as amazing, intricate, or subtle as speech.  This course introduces students to the study of speech production and perception and the nature of the acoustic signal that is transmitted from speaker to listener.\\
 
-{\bf Course Goals}\\
+## Course Goals
 
-\begin{enumerate}
-     \item To understand fundamental principles of phonetic theory and phonetic representation. We will study current theories of the complex tasks accomplished by speakers and listeners and will arrive at a representation of speech sounds in terms of their articulatory (speaker-based), acoustic, and perceptual (listener-based) characteristics.
-     \item To introduce students to phonetic experimentation and analysis.  Small-scale experiments will provide training in physiologic measurement, acoustic analysis and perceptual testing.  We will reinforce theoretical principles by performing empirical tests of claims.
-     \item To consider articulatory, acoustic and perceptual properties as imposing a set of simultaneous constraints on the notion of ``possible speech sound'' and as contributing to the definition of ``possible speech sound system'' for human languages.  This consideration serves as a bridge from phonetics to phonology.
-     \item To provide practical experience in producing and transcribing sounds of the world's languages.
-\end{enumerate}
+- To understand fundamental principles of phonetic theory and phonetic representation. We will study current theories of the complex tasks accomplished by speakers and listeners and will arrive at a representation of speech sounds in terms of their articulatory (speaker-based), acoustic, and perceptual (listener-based) characteristics.
+- To introduce students to phonetic experimentation and analysis.  Small-scale experiments will provide training in physiologic measurement, acoustic analysis and perceptual testing.  We will reinforce theoretical principles by performing empirical tests of claims.
+- To consider articulatory, acoustic and perceptual properties as imposing a set of simultaneous constraints on the notion of ``possible speech sound'' and as contributing to the definition of ``possible speech sound system'' for human languages.  This consideration serves as a bridge from phonetics to phonology.
+- To provide practical experience in producing and transcribing sounds of the world's languages.
 
-{\bf Learning Outcomes}\\
+## Learning Outcomes
 
 After diligent participation in this class, students will:
 
-\begin{enumerate}
-     \item Have a basic understanding of articulatory phonetics and the physiology of speech
-     \item Have a basic understanding of the relationship between the sensory input of speech and our cognitive representations of that input
-     \item Be able to perform basic acoustic analysis of speech and interpret others' analyses
-     \item Be prepared to conduct independent research on topics in phonetics
-     \item Be able to transcribe, and read transcriptions of, human speech using the International Phonetic Alphabet and to understand the strengths and limitations of these transcriptions.
-\end{enumerate}
+- Have a basic understanding of articulatory phonetics and the physiology of speech
+- Have a basic understanding of the relationship between the sensory input of speech and our cognitive representations of that input
+- Be able to perform basic acoustic analysis of speech and interpret others' analyses
+- Be prepared to conduct independent research on topics in phonetics
+- Be able to transcribe, and read transcriptions of, human speech using the International Phonetic Alphabet and to understand the strengths and limitations of these transcriptions.
 
-{\bf Required Textbooks}\\
+## Required Textbooks
 
-{\em Acoustic and Auditory Phonetics} (3rd edition) by Keith Johnson ISBN: 1-4051-9466-9 \\
-{\em A Course in Phonetics} (6th edition) by Peter Ladefoged \& Keith Johnson ISBN: 1-4282-3126-9  \\
-(or {\em A Course in Phonetics} (5th edition) by Peter Ladefoged ISBN: 1-4130-0688-4) \\
-Additional required readings will be on \href{https://uk.instructure.com/courses/1606720}{our canvas site}.\\
+_Acoustic and Auditory Phonetics_ (3rd edition) by Keith Johnson ISBN: 1-4051-9466-9
+_A Course in Phonetics_ (6th edition) by Peter Ladefoged \& Keith Johnson ISBN: 1-4282-3126-9
+(or _A Course in Phonetics_ (5th edition) by Peter Ladefoged ISBN: 1-4130-0688-4)
+Additional required readings will be on [our canvas site](https://uk.instructure.com/courses/1606720).
 
-Discussions will parallel the readings but will not always cover the same material. {\bf You are responsible for all material covered in readings and in class.}  Regular class attendance and active participation are essential for mastery of the material and will be reflected by your overall course grade.  Slides, when used, will be made available online, but serve only to support the discussion we'll have together in class. Our discussions, in a very real sense, \emph{are} the course and the more you participate the richer our course will be.\\
+Discussions will parallel the readings but will not always cover the same material. *You are responsible for all material covered in readings and in class.*  Regular class attendance and active participation are essential for mastery of the material and will be reflected by your overall course grade.  Slides, when used, will be made available online, but serve only to support the discussion we'll have together in class. Our discussions, in a very real sense, _are_ the course and the more you participate the richer our course will be.
 
-{\bf Phonetic Transcription}\\
+## Phonetic Transcription
 
-Transcription, like any skill, can only be acquired through practice.  Moreover, it is essential that you contemplate your errors and understand why you are making them.  What do you tend to mishear?  Why might this be the case?  Students introduced to phonetic transcription tend to fall into one of two groups: those who learn transcription quickly and those who learn it slowly but ultimately master it.  I believe that grading should reward you for ultimately attaining the skill without penalizing you for your personal learning curve.\\
+Transcription, like any skill, can only be acquired through practice.  Moreover, it is essential that you contemplate your errors and understand why you are making them.  What do you tend to mishear?  Why might this be the case?  Students introduced to phonetic transcription tend to fall into one of two groups: those who learn transcription quickly and those who learn it slowly but ultimately master it.  I believe that grading should reward you for ultimately attaining the skill without penalizing you for your personal learning curve.
 
-{\bf In-class Practice Transcription}\\
+## In-class Practice Transcription
 
-We will devote 10 to 15 minutes of in-class time per week to transcription practice.  We will practice hearing and transcribing sounds together -- beginning with English consonants and advancing through the entire IPA.\\
+We will devote 10 to 15 minutes of in-class time per week to transcription practice.  We will practice hearing and transcribing sounds together -- beginning with English consonants and advancing through the entire IPA.
 
-{\bf Practice Transcription Assignments}\\
+## Practice Transcription Assignments
 
-Over the course of the semester there will be five (5) practice transcription assignments.  These are ungraded but compulsory.  Please, I beg you, do all of these.\\
+Over the course of the semester there will be five (5) practice transcription assignments.  These are ungraded but compulsory.  Please, I beg you, do all of these.
+
 Each of these transcription assignments will have three phases:
 
-\begin{enumerate}
-     \item You download and complete the assignment, like any homework.
-     \item I give you the key for the assignment and you grade your own work.  I encourage you to collaborate with 1 to 3 friends on this phase.
-     \item You write a brief analysis of the ways in which your initial transcriptions differ from the key.  Do you see any systematic differences?  What aspects of the production and perception of human speech might have led to these differences?  This analysis, along with your original, graded transcription, is what you will ultimately hand-in to me.
-\end{enumerate}
+- You download and complete the assignment, like any homework.
+- I give you the key for the assignment and you grade your own work.  I encourage you to collaborate with 1 to 3 friends on this phase.
+- You write a brief analysis of the ways in which your initial transcriptions differ from the key.  Do you see any systematic differences?  What aspects of the production and perception of human speech might have led to these differences?  This analysis, along with your original, graded transcription, is what you will ultimately hand-in to me.
 
-You will not receive grades for these assignments per se; however, your final transcription exam will be weighted by the number of transcription assignments completed.  That is, if you only complete 4 of the 5 assignments, then your final transcription exam grade will be multiplied by .8!  If you do \emph{none} of the transcription assignments then the highest grade you can receive on the transcription exam is a zero (0)! \\
-
-{\bf In-class Transcription Exam}\\
-
-There will be a final transcription exam, worth 10\% of your final grade, held in class on December 11$^{th}$.  In this exam you will be presented with a variety of speech sounds which you will transcribe using the International Phonetic Alphabet.  You will not be able to consult your textbook or other references during the final transcription exam.\\
-
-\pagebreak{}
-
- {\bf Course Requirements (undergraduate students)}\\
+## Course Requirements (undergraduate students)}
   \begin{enumerate}
        \item \textbf{Homework Assignments} \hfill{} 50\%\\
 	Five homework assignments will each be worth 10\% of your grade.  Assignment sheets will be on OwlSpace at least 1 week prior to their due date.  See the schedule (below) for due dates.
