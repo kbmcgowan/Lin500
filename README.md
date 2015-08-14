@@ -47,7 +47,7 @@ Additional required readings will be on [our canvas site](https://uk.instructure
 Discussions will parallel the readings but will not always cover the same material. *You are responsible for all material covered in readings and in class.*  Regular class attendance and active participation are essential for mastery of the material and will be reflected by your overall course grade.  Slides, when used, will be made available online, but serve only to support the discussion we'll have together in class. Our discussions, in a very real sense, _are_ the course and the more you participate the richer our course will be.
 
 Work | Grade contribution
-------|-------------------
+------|-------------------:
 Homework Assignments | 15%
 Transcription assignments | 15%
 Midterm exam | 20%
