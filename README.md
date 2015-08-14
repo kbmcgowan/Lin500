@@ -1,13 +1,13 @@
 
 # Linguistics 500 • Phonetics
 
-MWF 9:00-9:50 in LCLI 312
+MWF 9:00-9:50 in [LCLI](http://ukcc.uky.edu/cgi-bin/dynamo?maps.391+campus+0224) 312
 -------------------------------------------------------
 
 https://uk.instructure.com/courses/1606720
 
 ## Instructor
-- Dr. Kevin B. McGowan
+- Kevin B. McGowan
 - kbmcgowan@uky.edu
 - 1373 Patterson Office Tower
 - 859-257-6974
@@ -16,7 +16,7 @@ https://uk.instructure.com/courses/1606720
 
 ## Course Description
 
-We humans have the uncanny ability to convert thoughts into vibrating air molecules, perceive minute patterns of vibration happening around their heads, and translate those vibrations back into thoughts!  Nothing any science fiction author could ever write about mind reading could be as amazing, intricate, or subtle as speech.  This course introduces students to the study of speech production and perception and the nature of the acoustic signal that is transmitted from speaker to listener.\\
+We humans have the uncanny ability to convert thoughts into vibrating air molecules, perceive minute patterns of vibration happening around their heads, and translate those vibrations back into thoughts!  Nothing any science fiction author could ever write about mind reading could be as amazing, intricate, or subtle as speech.  This course introduces students to the study of speech production and perception and the nature of the acoustic signal that is transmitted from speaker to listener.
 
 ## Course Goals
 
@@ -61,11 +61,15 @@ Each of these transcription assignments will have three phases:
 - I give you the key for the assignment and you grade your own work.  I encourage you to collaborate with 1 to 3 friends on this phase.
 - You write a brief analysis of the ways in which your initial transcriptions differ from the key.  Do you see any systematic differences?  What aspects of the production and perception of human speech might have led to these differences?  This analysis, along with your original, graded transcription, is what you will ultimately hand-in to me.
 
-| Course Grading |  |
 --------------------------------
-| *Homework Assignments* | 50% |
+| Work | Grade contribution |
+--------------------------------
+| Homework Assignments | 15% |
 | Transcription assignments | 15% |
-|
+| Midterm exam | 20% |
+| Final exam | 20% |
+| Semester Project | 30% |
+--------------------------------
 
        \item \textbf{Exams:} \hfill{} 40\%\\
        An in-class acoustics exam and a take-home final exam are each worth 20\% of your final grade.  The final exam will be comprehensive.
