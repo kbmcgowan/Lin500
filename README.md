@@ -46,6 +46,14 @@ Additional required readings will be on [our canvas site](https://uk.instructure
 
 Discussions will parallel the readings but will not always cover the same material. *You are responsible for all material covered in readings and in class.*  Regular class attendance and active participation are essential for mastery of the material and will be reflected by your overall course grade.  Slides, when used, will be made available online, but serve only to support the discussion we'll have together in class. Our discussions, in a very real sense, _are_ the course and the more you participate the richer our course will be.
 
+Work | Grade contribution
+------|-------------------
+Homework Assignments | 15%
+Transcription assignments | 15%
+Midterm exam | 20%
+Final exam | 20%
+Semester Project | 30%
+
 ## In-class Practice Transcription
 
 We will devote 10 to 15 minutes of in-class time per week to transcription practice.  We will practice hearing and transcribing sounds together -- beginning with English consonants and advancing through the entire IPA.
@@ -60,14 +68,6 @@ Each of these transcription assignments will have three phases:
 - You download and complete the assignment, like any homework.
 - I give you the key for the assignment and you grade your own work.  I encourage you to collaborate with 1 to 3 friends on this phase.
 - You write a brief analysis of the ways in which your initial transcriptions differ from the key.  Do you see any systematic differences?  What aspects of the production and perception of human speech might have led to these differences?  This analysis, along with your original, graded transcription, is what you will ultimately hand-in to me.
-
- Work | Grade contribution
-------|-------------------
-Homework Assignments | 15%
-Transcription assignments | 15%
-Midterm exam | 20%
-Final exam | 20%
-Semester Project | 30%
 
 ## Homework Information
 
