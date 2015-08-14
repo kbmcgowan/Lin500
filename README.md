@@ -1,15 +1,18 @@
 
-_Lin_ guistics 500.001 - Fall 2015 *Phonetics* MWF 9:00-9:50 in LCLI 312
+Phonetics (Lin 500.001)
+=======================
 
-     https://uk.instructure.com/courses/1606720
+Linguistics 500 (Lin 500.001) Fall 2015 *Phonetics* MWF 9:00-9:50 in LCLI 312
 
-     Instructor: Dr. Kevin B. McGowan
-                 kbmcgowan@uky.edu
-                 1373 POT
-                 859-257-6974
+https://uk.instructure.com/courses/1606720
 
-     Office Hours:  Monday Tuesday  1:00 - 2:30
-                    or [make an appointment](https://kbmcgowan.youcanbook.me/)
+## Instructor
+- Dr. Kevin B. McGowan
+- kbmcgowan@uky.edu
+- 1373 Patterson Office Tower
+- 859-257-6974
+- Office Hours:  Monday & Tuesday  1:00 - 2:30
+  or [make an appointment](https://kbmcgowan.youcanbook.me/)
 
 {\bf Course Description}\\
 
