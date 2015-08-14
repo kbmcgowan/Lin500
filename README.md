@@ -1,7 +1,7 @@
 
-#Phonetics (Lin 500.001)
+# Linguistics 500 • Phonetics
 
-Linguistics 500 | Fall 2015 | MWF 9:00-9:50 in LCLI 312
+MWF 9:00-9:50 in LCLI 312
 -------------------------------------------------------
 
 https://uk.instructure.com/courses/1606720
@@ -39,16 +39,12 @@ After diligent participation in this class, students will:
 
 1.  _Acoustic and Auditory Phonetics_ (3rd edition) by Keith Johnson ISBN: 1-4051-9466-9
 2. And _A Course in Phonetics_, one of:
-  - _A Course in Phonetics_ (6th edition) by Peter Ladefoged \& Keith Johnson ISBN: 1-4282-3126-9
-  - or _A Course in Phonetics_ (5th edition) by Peter Ladefoged ISBN: 1-4130-0688-4)
+  - 6th edition by Peter Ladefoged \& Keith Johnson ISBN: 1-4282-3126-9
+  - or 5th edition by Peter Ladefoged ISBN: 1-4130-0688-4)
 
 Additional required readings will be on [our canvas site](https://uk.instructure.com/courses/1606720).
 
 Discussions will parallel the readings but will not always cover the same material. *You are responsible for all material covered in readings and in class.*  Regular class attendance and active participation are essential for mastery of the material and will be reflected by your overall course grade.  Slides, when used, will be made available online, but serve only to support the discussion we'll have together in class. Our discussions, in a very real sense, _are_ the course and the more you participate the richer our course will be.
-
-## Phonetic Transcription
-
-Transcription, like any skill, can only be acquired through practice.  Moreover, it is essential that you contemplate your errors and understand why you are making them.  What do you tend to mishear?  Why might this be the case?  Students introduced to phonetic transcription tend to fall into one of two groups: those who learn transcription quickly and those who learn it slowly but ultimately master it.  I believe that grading should reward you for ultimately attaining the skill without penalizing you for your personal learning curve.
 
 ## In-class Practice Transcription
 
@@ -56,7 +52,8 @@ We will devote 10 to 15 minutes of in-class time per week to transcription pract
 
 ## Practice Transcription Assignments
 
-Over the course of the semester there will be five (5) practice transcription assignments.  These are ungraded but compulsory.  Please, I beg you, do all of these.
+Transcription, like any skill, can only be acquired through practice.  Moreover, it is essential that you contemplate your errors and understand why you are making them.  What do you tend to mishear?  Why might this be the case?
+  Over the course of the semester there will be five (5) practice transcription assignments worth 15\% of the final grade.  These are ungraded but compulsory.  Please, I beg you, do all of these.
 
 Each of these transcription assignments will have three phases:
 
@@ -64,13 +61,11 @@ Each of these transcription assignments will have three phases:
 - I give you the key for the assignment and you grade your own work.  I encourage you to collaborate with 1 to 3 friends on this phase.
 - You write a brief analysis of the ways in which your initial transcriptions differ from the key.  Do you see any systematic differences?  What aspects of the production and perception of human speech might have led to these differences?  This analysis, along with your original, graded transcription, is what you will ultimately hand-in to me.
 
-## Course Requirements (undergraduate students)}
-  \begin{enumerate}
-       \item \textbf{Homework Assignments} \hfill{} 50\%\\
-	Five homework assignments will each be worth 10\% of your grade.  Assignment sheets will be on OwlSpace at least 1 week prior to their due date.  See the schedule (below) for due dates.
-
-       \item \textbf{In-class transcription exam} \hfill{} 15\%\\
-	This grade will be weighted by the number of practice transcription assignments you complete (see above!).  The in-class exam will consist of audio and video recordings of native speakers producing both English and non-English speech sounds.
+| Course Grading |  |
+--------------------------------
+| *Homework Assignments* | 50% |
+| Transcription assignments | 15% |
+|
 
        \item \textbf{Exams:} \hfill{} 40\%\\
        An in-class acoustics exam and a take-home final exam are each worth 20\% of your final grade.  The final exam will be comprehensive.
