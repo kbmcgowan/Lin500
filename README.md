@@ -61,66 +61,41 @@ Each of these transcription assignments will have three phases:
 - I give you the key for the assignment and you grade your own work.  I encourage you to collaborate with 1 to 3 friends on this phase.
 - You write a brief analysis of the ways in which your initial transcriptions differ from the key.  Do you see any systematic differences?  What aspects of the production and perception of human speech might have led to these differences?  This analysis, along with your original, graded transcription, is what you will ultimately hand-in to me.
 
---------------------------------
-| Work | Grade contribution |
---------------------------------
-| Homework Assignments | 15% |
-| Transcription assignments | 15% |
-| Midterm exam | 20% |
-| Final exam | 20% |
-| Semester Project | 30% |
---------------------------------
+ Work | Grade contribution
+------|-------------------
+Homework Assignments | 15%
+Transcription assignments | 15%
+Midterm exam | 20%
+Final exam | 20%
+Semester Project | 30%
+------|-------------------
 
-       \item \textbf{Exams:} \hfill{} 40\%\\
-       An in-class acoustics exam and a take-home final exam are each worth 20\% of your final grade.  The final exam will be comprehensive.
-  \end{enumerate}
-\ \\
+## Homework Information
 
- {\bf Course Requirements (graduate students)}\\
-  \begin{enumerate}
-       \item \textbf{Homework Assignments} \hfill{} 50\%\\
-	Five homework assignments will each be worth 10\% of your grade.  Assignment sheets will be on OwlSpace at least 1 week prior to their due date.  See the schedule (below) for due dates.
+Homework sheets will be available for download from canvas at least 1 week before their due date.
 
-       \item \textbf{In-class transcription exam} \hfill{} 10\%\\
-	This grade will be weighted by the number of practice transcription assignments you complete (see above!).  The in-class exam will consist of audio and video recordings of native speakers producing both English and non-English speech sounds.
+Completed homeworks are to be uploaded to canvas; hardcopy assignments will not be accepted.  Note that completed assignments should be submitted in plain text or PDF format *only*.  We will not accept Word files.
 
-       \item \textbf{Exams:} \hfill{} 20\%\\
-       An in-class acoustics exam and a take-home final exam are each worth 10\% of your final grade.  The final exam will be comprehensive.
+## Late Homework Policy
+These are not going to be the kind of homework assignments you can leave until the last second.  Phonetics is exacting and can be both difficult to think through and labor intensive.  Late homework will not be accepted without an approved excuse for, for example, illness or family emergency.  Alternate due dates can be arranged _in advance_ of the regular deadline if you have legitimate reasons for the request, such as  sports schedules.  Please consult with me during my office hours.
 
-       \item \textbf{Term project/paper}\hfill{} 20\% \\
+If you fail to meet a due date: upload your homework as soon as possible.  The system will allow the upload, but your file will be flagged as late. I will not grade homework marked as late unless you submit, and I approve, a signed, paper-based written request to have your late paper graded, including a brief description of why you think the submission deadline should be extended in your case.  You can hand your signed, written request directly to me or leave it under my office door.
 
-       A final paper in which you perform and write up either an independent phonetic analysis or a perception experiment is worth 20\% of your final grade.  Projects should capitalize on the skills used in homework assignments, e.g. measuring voice onset time or vowel formants for one or two speakers.  You \textbf{must} write-up and present a project prospectus to me by 11-22.  Final papers are due
+## Honor Policy
 
-  \end{enumerate}
+Appropriating someone else's work and portraying it as your own is cheating.  Collaborating with someone and portraying that work as solely your own is cheating.  Obtaining answers to homework assignments or exams from previous semesters is cheating. Falsifying data or experimental results is cheating.  If you are caught cheating, you will be referred to the Honor Council.  If you are unsure about whether a specific action is cheating, you may check with your TA or the intstructor.  Some general guidelines are:
 
-{\bf Homework Information}
+- Do not look at notes, assignments, or exams from previous semesters.
+- Do not seek solutions to homework problems or exams from outside sources, including books (other than the textbook) or the internet.
+- Do not copy other (current or former) studentsÕ homework assignments. To minimize this temptation, always type up your homework answers by yourself, separately from your study group or other students in the class.
+- Once you have started to work on your acoustics or final exam, do not discuss it with other students, until after you have turned it in and the exam time is over.
+- Do not falsify data or other results in your homeworks or Extra Credit project.
+- Cite all sources used and cite and designate all quotations as such.
 
-Homework sheets will be available for download from OwlSpace at least 1 week before their due date. \\
+## Study Groups
 
-Completed homeworks are to be uploaded to the course website; hardcopy assignments will not be accepted.  Note that completed assignments should be submitted in plain text or PDF format {\bf only}.  We will not accept Word files.\\
+I encourage students to form study groups to talk about readings and lectures, and especially to discuss and work through analyzing homework problems.  Invite me if you want and I'll try to come.  However, after you figure/argue them out together please type up your homework answers alone, separately from the other study group members.  It is usually easy to tell who has worked together and we will not grade identical answers gently.
 
-{\bf Late Homework Policy}
-These are not going to be the kind of homework assignments you can leave until the last second.  Phonetics is exacting and can be both difficult to think through and labor intensive.  Late homework will not be accepted without an approved excuse for, for example, illness or family emergency.  Alternate due dates can be arranged \emph{in advance} of the regular deadline if you have legitimate reasons for the request, such as  sports schedules.  Please consult with me during my office hours.\\
+## Americans with Disabilities Act
 
-If you fail to meet a due date: upload your homework as soon as possible.  The system will allow the upload, but your file will be flagged as late. I will not grade homework marked as late unless you submit, and I approve, a signed, paper-based written request to have your late paper graded, including a brief description of why you think the submission deadline should be extended in your case.  You can hand your signed, written request directly to me or leave it in my departmental mailbox in Herring Hall.\\
-
-{\bf Honor Policy} \\
-
-Appropriating someone else's work and portraying it as your own is cheating.  Collaborating with someone and portraying that work as solely your own is cheating.  Obtaining answers to homework assignments or exams from previous semesters is cheating. Falsifying data or experimental results is cheating. (The foregoing is not intended to be a complete list. A complete description of RiceÕs Honor Code, plagiarism, and other general information can be found at the Rice Honor Council Web page at http://honor.rice.edu/).  If you are caught cheating, you will be referred to the Honor Council.  If you are unsure about whether a specific action is cheating, you may check with your TA or the intstructor.  Some general guidelines are:\\
-
-\begin{itemize}
-     \item Do not look at notes, assignments, or exams from previous semesters.
-     \item Do not seek solutions to homework problems or exams from outside sources, including books (other than the textbook) or the internet.
-     \item Do not copy other (current or former) studentsÕ homework assignments. To minimize this temptation, always type up your homework answers by yourself, separately from your study group or other students in the class.
-     \item Once you have started to work on your acoustics or final exam, do not discuss it with other students, until after you have turned it in and the exam time is over.
-     \item Do not falsify data or other results in your homeworks or Extra Credit project.
-     \item Cite all sources used and cite and designate all quotations as such.
-\end{itemize}
-
-{\bf Study Groups}\\
-
-I encourage students to form study groups to talk about readings and lectures, and especially to discuss and work through analyzing homework problems.  Invite me if you want and I'll try to come.  However, after you figure/argue them out together please type up your homework answers alone, separately from the other study group members.  It is usually easy to tell who has worked together and we will not grade identical answers gently.\\
-
- {\bf Americans with Disabilities Act}
-
- If any student in the class has a documented disability needing academic adjustments or accommodations, please get in touch with me during the first two weeks of class.  All discussions will remain confidential.  Students with disabilities will also need to contact Disability Support Services in the Ley Student Center.  I look forward to working with you to make this class enjoyable and accessible for all. \ \\
+ If any student in the class has a documented disability needing academic adjustments or accommodations, please get in touch with me during the first two weeks of class.  All discussions will remain confidential.  Students with disabilities will also need to contact Disability Support Services in the Ley Student Center.  I look forward to working with you to make this class enjoyable and accessible for all.
