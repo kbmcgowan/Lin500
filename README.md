@@ -38,8 +38,9 @@ After diligent participation in this class, students will:
 ## Required Textbooks
 
 1.  _Acoustic and Auditory Phonetics_ (3rd edition) by Keith Johnson ISBN: 1-4051-9466-9
-2. - _A Course in Phonetics_ (6th edition) by Peter Ladefoged \& Keith Johnson ISBN: 1-4282-3126-9
-- (or _A Course in Phonetics_ (5th edition) by Peter Ladefoged ISBN: 1-4130-0688-4)
+2.
+  - _A Course in Phonetics_ (6th edition) by Peter Ladefoged \& Keith Johnson ISBN: 1-4282-3126-9
+  - (or _A Course in Phonetics_ (5th edition) by Peter Ladefoged ISBN: 1-4130-0688-4)
 
 Additional required readings will be on [our canvas site](https://uk.instructure.com/courses/1606720).
 
